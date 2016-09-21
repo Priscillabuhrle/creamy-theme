@@ -1,0 +1,71 @@
+/* header */
+.cambiaruno{
+	background-color: #D32C2C
+	color: white;
+}
+nav{
+	margin-bottom: auto!important;
+}
+.navbar{
+	background-color: #DA2C38;
+}
+li{
+	color:white;
+}
+a{
+	color:white;
+}
+/*parte dos*/
+.titulouno{
+	color: white;
+}
+.heladodos{
+	background-image: url(../img/creamy.jpg);
+	background-position: center;
+}
+.oscuro{
+	background-color: rgba(0, 0, 0, 0.5);
+	padding: 10% 20% 10% 20%;
+}
+/*parte tres*/
+.tres{
+	color: red;
+}
+.parrafotres{
+	color: red;
+	padding: 0 5% 0 5%;
+}
+.heladotres{
+	max-width: 80%;
+}
+.partetres{
+	padding: 1% 2% 1% 2%;
+	background-color: #F4F0BB;
+}
+/*parte cuatro*/
+.partecuatro{
+	padding: 2% 6% 2% 6%;
+	background-color: #DA2C38;
+	color: #F4F0BB;
+}
+/*parte cinco*/
+.partecinco{
+	background-color: #F4F0BB;
+	padding: 3% 4% 7% 4%;
+}
+.glyphicon{
+	font-size: 70px;
+	color:#DA2C38;
+}
+.textcinco{
+	color:#DA2C38;
+}
+.nombrecinco{
+	color:#DA2C38;
+}
+/*parte seis*/
+.parteseis{
+	background-color:#DA2C38;
+	color: #F4F0BB; 
+	padding: 1% 2% 1% 5%;
+}
